@@ -4,7 +4,6 @@
     <br />
 	<img src="https://img.shields.io/badge/norminette-passing-success"/>
 	<img src="https://img.shields.io/badge/leaks-none-success" />
-	<img src="https://img.shields.io/badge/bonus-included-success"/>
 </div>
 
 ## 🌳 Folder Structure
@@ -91,7 +90,6 @@ make
 
 ## 📚 Resources
 
-* [42 Push Swap Explained](https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a)
 * [Sorting Algorithms Visualizer](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ---
